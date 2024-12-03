@@ -5,6 +5,5 @@ if __name__ == "__main__":
     input_suhu = input("Masukkan suhu dalam derajat Celcius: ")
     hasil = konversi_suhu(input_suhu)
     print(hasil)
-    
     # Menjalankan fungsi pengujian
     test_konversi_suhu()
